@@ -1,11 +1,8 @@
-# 📘 Flashcards App
-A command-line flashcards program built in Python. Users can add, review, and test themselves using flashcards, with progress saved in a CSV file.
+# 📘 Flashcards Improvements
+Improving upon my flashcards project with the help of ChatGPT.
 
-## Features
-- Add new flashcards
-- Categories for organizing flashcards
-- Saves and loads data from `flashcards.csv`
-- Quiz mode to test your knowledge
+## Improvements
+- 
 
 ## Project Structure
 ```
