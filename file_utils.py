@@ -32,7 +32,7 @@ def load_categories(filename):
     with open(filename) as file:
         reader = csv.DictReader(file)
         for flashcard in reader:
-            if flashcard["category"] not in seen_categories:
+            if flashcard["category"].strip() not in seen_categories:
                 categories.append(flashcard["category"])
                 seen_categories.add(flashcard["category"])
 
