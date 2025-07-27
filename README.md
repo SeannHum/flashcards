@@ -13,6 +13,7 @@ flashcards/
 ├── main.py              # Main Python script
 ├── flashcard_ops.py     # Functions to handle flashcards properties
 ├── file_utils.py        # Helper functions (if applicable)
+├── quiz.py              # Functions related to quiz questions
 ├── flashcards.csv       # Flashcard data
 └── README.md            # Project documentation
 ```
