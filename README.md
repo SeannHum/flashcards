@@ -2,7 +2,7 @@
 Improving upon my flashcards project with the help of ChatGPT.
 
 ## Improvements
-- 
+- Improved view_flashcards function in flashcard_ops.py to make it testable via pytest.
 
 ## Project Structure
 ```
